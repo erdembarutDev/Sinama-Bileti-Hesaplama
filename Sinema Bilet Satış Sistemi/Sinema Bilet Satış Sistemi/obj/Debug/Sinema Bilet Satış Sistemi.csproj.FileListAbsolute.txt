@@ -1,0 +1,10 @@
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\bin\Debug\Sinema Bilet Satış Sistemi.exe.config
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\bin\Debug\Sinema Bilet Satış Sistemi.exe
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\bin\Debug\Sinema Bilet Satış Sistemi.pdb
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\obj\Debug\Sinema Bilet Satış Sistemi.csproj.AssemblyReference.cache
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\obj\Debug\Sinema_Bilet_Satış_Sistemi.Form1.resources
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\obj\Debug\Sinema_Bilet_Satış_Sistemi.Properties.Resources.resources
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\obj\Debug\Sinema Bilet Satış Sistemi.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\obj\Debug\Sinema Bilet Satış Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\obj\Debug\Sinema Bilet Satış Sistemi.exe
+C:\Users\Erdem\source\repos\Sinema Bilet Satış Sistemi\Sinema Bilet Satış Sistemi\obj\Debug\Sinema Bilet Satış Sistemi.pdb
